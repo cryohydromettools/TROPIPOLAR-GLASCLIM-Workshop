@@ -5,7 +5,7 @@ title: Bienvenido
 list_title: Home
 ---
 
-%<img src="https://github.com/Machine-Learning-in-Glaciology-Workshop/Machine-Learning-in-Glaciology-Workshop.github.io/blob/master/assets/imgs/finse_banner_2024.png?raw=true" width="700">
+%<img src="assets/imgs/TROPIPOLAR-GLASCLIM-CARD.png" width="700">
 
 El 1er Taller de Climatología y Glaciología se celebrará del 6 al 12 de octubre de 2024 en la ciudad de Huaraz, Perú. Esta ciudad es conocida por sus atractivas montañas, glaciares y lagunas, las cuales se encuentran en la [Cordillera Blanca](https://www.peru.travel/es/atractivos/cordillera-blanca). El Taller está dirigido a estudiantes e investigadores de todas las etapas de su carrera que estén interesados en el estudio de la climatología y glaciología usando Modelos Climáticos Regionales (MCRs) y técnicas de Aprendizaje Automático. El taller está diseñado en dos formatos. (1) Durante las mañanas se desarrollarán conferencias magistrales donde se discutirán temas actuales relacionados al modelamiento climático, eventos climáticos extremos, modelamiento glaciológico, técnicas de Aprendizaje Automático aplicado a la glaciología. Este primer formato se desarrollará presencial y virtual (híbrido). (2) Durante las tardes se desarrollarán ejercicios prácticos sobre modelamiento glaciológico usando modelos físicos y técnicas de aprendizaje automático. Este segundo formato se desarrollará apenas con los participantes que asistan de forma presencial. Además, el taller práctico se basa principalmente en proyectos. Puede obtener más información sobre los proyectos en la [página de proyectos](projects.md). Todos los materiales de clases estarán reunidos en un Jupyter Book, que se estará actualizando iterativamente con los comentarios de los participantes. Los participantes también pueden diseñar su propio proyecto basado en sus propias ideas y datos en colaboración con los instructores.
 <br>
@@ -31,10 +31,15 @@ Encontrará un programa preliminar en la [página del programa].(schedule.md)
 
 Organizadores e instructores de talleres: <br>
 <br>
-Jorge Arinony-Neto (Universidade Federal do Rio Grande, Brasil) <br>
+Jorge Arigony-Neto (Universidade Federal do Rio Grande, Brasil) <br>
 Deniz Bozkurt (Universidad de Valparaíso, Chile) <br>
+Edwin Anibal Loarte Cadenas (Universidad Nacional Santiago Antúnez de Mayolo, Perú) <br>
+Alvaro Soruco (Universidad Mayor de San Andrés, Bolivia) <br>
+Vincent Favier (Université Grenoble Alpes, Francia) <br>
 
+Ruben Basantes (Universidad Yachay Tech, Ecuador) <br>
 Jordi Bolibar (Université Grenoble Alpes, Francia) <br>
+Claudio Bravo (Centro de Estudios Científicos, Chile) <br>
 Christian Torres (Universidade Federal do Rio Grande, Brasil) <br>
 
 <br>
